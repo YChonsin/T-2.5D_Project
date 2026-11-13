@@ -42,6 +42,11 @@ seismic volume. This procedure follows a simplified convolutional representation
 seismic data rather than a full wave-equation-based simulation. Therefore, the resulting data 
 are intended to represent reflection-related structural features of the Overthrust model without 
 explicitly accounting for complex wave-propagation effects.
+\
+\
+Reference: Aminzadeh, F., Brac, J., & Kunz, T., 1997. SEG/EAGE 3-D Salt and Overthrust Models, no. 1 in
+SEG/EAGE 3-D Modeling Series, Society of Exploration Geophysicists, Tulsa, Oklahoma, Distribution
+CD of Salt and Overthrust models.
 
 \
 Table S2 provides the dataset preparation details of the Opunake dataset.
