@@ -87,6 +87,10 @@ channel dimension, which inevitable leads to an increase in the number of featur
 an additional Conv layer is placed after each concatenation to reduce the channel number back to 32. 
 For simplicity, we omitted these layers from the architectural illustration in Fig. 4, as this dense-connection 
 mechanism has been well established in the literature (Huang et al. 2017), in which more details can be found.
+\
+\
+Reference: Huang, G., Liu, Z., van der Maaten, L., & Weinberger, K. Q., 2017. Densely connected convolutional networks, 
+in Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
 
 ## S4. SSIM configuration
 The SSIM we used was calculated using the _structural_similarity_index_measure_ function from _torchmetrics_ 
